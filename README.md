@@ -1,4 +1,4 @@
-![codewars](https://www.codewars.com/users/sureshpradhana/badges/large)
+![codewars](https://www.codewars.com/users/sureshpradhana/badges/micro)
 
 <!--
 **SureshPradhana/SureshPradhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
