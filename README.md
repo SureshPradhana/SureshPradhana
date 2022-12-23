@@ -1,4 +1,6 @@
 ![codewars](https://www.codewars.com/users/sureshpradhana/badges/micro)
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshpradhana&label=Profile%20views&color=0e75b6&style=flat" alt="sureshpradhana" /> </p> -->
+
 
 <!--
 **SureshPradhana/SureshPradhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
