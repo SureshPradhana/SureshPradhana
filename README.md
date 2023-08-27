@@ -1,4 +1,5 @@
-![codewars](https://www.codewars.com/users/sureshpradhana/badges/micro)
+Hi there 👋
+<!--![codewars](https://www.codewars.com/users/sureshpradhana/badges/micro)-->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshpradhana&label=Profile%20views&color=0e75b6&style=flat" alt="sureshpradhana" /> </p> -->
 
 
