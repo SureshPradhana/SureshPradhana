@@ -30,9 +30,9 @@ Hi there! 👋 I'm Suresh, a full-stack engineer.
 
 
 ### Badges
+
 <img src="https://assets.holopin.io/hf2023levels/level4-blue-cat-tshirt-crocs-swarm.webp" alt="drawing" width="40"/>
 <!-- <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="drawing" width="40"/> -->
-<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16ZXJwM3EzMDUwMGZsZHZ4d2JwZTdhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="plant atree" width="40"/>
+<!--<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16ZXJwM3EzMDUwMGZsZHZ4d2JwZTdhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="plant a tree" width="40"/>-->
 <br/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshpradhana&label=Profile%20views&color=0e75b6&style=flat" alt="sureshpradhana" /> </p>
