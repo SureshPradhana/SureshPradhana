@@ -6,7 +6,7 @@ Hi there! 👋 I'm Suresh, a full-stack engineer.
 💼 Looking for a job in full-stack engineering.<br/>
 💬 Ask me about programming, anime, and art.<br/>
 😄 Pronouns: he/him<br/>
-📫 Reach me: <br/>[![Email](https://img.shields.io/badge/Mail-313132?style=flat?style=for-the-badge&logo=Gmail)](mailto:sureshpradhana19@gmail.com)  [![Linkedin](https://img.shields.io/badge/Linkedin-313132?style=flat?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/suresh-pradhana-b322851bb/) [![Twitter](https://img.shields.io/badge/twitter-313132?style=flat?style=for-the-badge&logo=X&logoColor=black)](https://twitter.com/suresh_pradhana) [![Reddit](https://img.shields.io/badge/Reddit-313132?style=flat?style=for-the-badge&logo=Reddit&logoColor=orange)](https://www.reddit.com/user/suresh__reddit)
+📫 Reach me: <br/>[![Email](https://img.shields.io/badge/Mail-313132?style=flat?style=for-the-badge&logo=Gmail)](mailto:sureshpradhana19@gmail.com)  [![Linkedin](https://img.shields.io/badge/Linkedin-313132?style=flat?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/suresh-pradhana-b322851bb/) [![Twitter](https://img.shields.io/badge/twitter-313132?style=flat?style=for-the-badge&logo=X&logoColor=black)](https://twitter.com/suresh_pradhana) [![Reddit](https://img.shields.io/badge/Reddit-313132?style=flat?style=for-the-badge&logo=Reddit&logoColor=orange)](https://www.reddit.com/user/iabcsh)
 <br/>
 
 💻 Skills:  <br/>
