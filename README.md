@@ -24,7 +24,7 @@ Hi there! 👋 I'm Suresh, a full-stack engineer.
 🏆 Coding Platforms:<br/>
 [![codewars](https://www.codewars.com/users/sureshpradhana/badges/micro)](https://www.codewars.com/users/sureshpradhana)
 [![LeetCode](https://img.shields.io/badge/LeetCode-313132?for-the-badeg&logo=leetcode&logoCOlor=yellow)](https://leetcode.com/sureshpradhana19/)
-[![BFE.dev](https://img.shields.io/badge/Bfe.dev-313132?styel-flat?style=for-the-badge&label=BFE&labelColor=red)](https://bigfrontend.dev/user/4HXLYFq)
+[![BFE.dev](https://img.shields.io/badge/Bfe.dev-313132?styel-flat?style=for-the-badge&label=BFE&labelColor=red)](https://bigfrontend.dev/user/suresh)
 
 
 
