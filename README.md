@@ -2,7 +2,7 @@ Hi there! 👋 I'm Suresh, a full-stack engineer.
 <!--![codewars](https://www.codewars.com/users/sureshpradhana/badges/micro)-->
 ### About Me
 🛠️ Working on a project related to multiple-choice questions.<br/>
-📘 Learning Rust.<br/>
+📘 Learning Go.<br/>
 💼 Looking for a job in full-stack engineering.<br/>
 💬 Ask me about programming, anime, and art.<br/>
 😄 Pronouns: he/him<br/>
@@ -13,12 +13,17 @@ Hi there! 👋 I'm Suresh, a full-stack engineer.
 [![MongoDB](https://img.shields.io/badge/MongoDB-313132?style=for-the-badge&logo=MongoDB&logoColor=green)](https://www.mongodb.com/)
 [![Express](https://img.shields.io/badge/Express-313132?style=for-the-badge&logo=Express&logoColor=black)](https://expressjs.com/)
 [![ReactJS](https://img.shields.io/badge/ReactJS-313132?style=for-the-badge&logo=React&logoColor=blue)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-313132?style=for-the-badge&logo=Node.js&logoColor=green)](https://nodejs.org/)<br/>
+[![Node.js](https://img.shields.io/badge/Node.js-313132?style=for-the-badge&logo=Node.js&logoColor=green)](https://nodejs.org/)
+[![svelte](https://img.shields.io/badge/Svelte-313132?style=for-the-badge&logo=Svelte&logoColor=orange)](https://svelte.dev/)
+[![sveltekit](https://img.shields.io/badge/SvelteKit-313132?style=for-the-badge&logo=Svelte&logoColor=orange)](https://kit.svelte.dev/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-313132?style=for-the-badge&logo=PostgreSQL&logoColor=336791)](https://www.postgresql.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-313132?style=for-the-badge&logo=Tailwind-CSS&logoColor=blue)](https://tailwindcss.com/)
-[![SCSS/Sass](https://img.shields.io/badge/SCSS/Sass-313132?style=for-the-badge&logo=Sass&logoColor=CC6699)](https://sass-lang.com/)<br/>
+[![SCSS/Sass](https://img.shields.io/badge/SCSS/Sass-313132?style=for-the-badge&logo=Sass&logoColor=CC6699)](https://sass-lang.com/)
 [![Git](https://img.shields.io/badge/Git-313132?style=for-the-badge&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![Bash](https://img.shields.io/badge/Bash-313132?style=for-the-badge&logo=GNU-Bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![go](https://img.shields.io/badge/Go-313132?style=for-the-badge&logo=go&logoColor=Blue)](https://go.dev/)
+[![javascript](https://img.shields.io/badge/javascript-313132?style=for-the-badge&logo=javascript&logoColor=green)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Typescript](https://img.shields.io/badge/typescript-313132?style=for-the-badge&logo=typescript&logoColor=Blue)](https://www.typescriptlang.org/)
 <br/>
 
 🏆 Coding Platforms:<br/>
