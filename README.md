@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Suresh</h1>
+
 <p align="center">
   <samp>
     <a href="https://suresh-pradhana.vercel.app/">me</a> .
@@ -8,7 +10,7 @@
   </samp>
 </p>
 <div align="center">
-
-[![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SureshPradhana&show_icons=true&theme=tokyonight)](https://github.com/SureshPradhana)
+  
+![](https://komarev.com/ghpvc/?username=SureshPradhana)
 
 </div>
